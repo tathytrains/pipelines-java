@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/tathytrains/devplay/_apis/build/status/tathytrains.pipelines-java?branchName=master)](https://dev.azure.com/tathytrains/devplay/_build/latest?definitionId=6&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
